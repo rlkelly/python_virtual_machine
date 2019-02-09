@@ -1,0 +1,3 @@
+ON = 1
+OFF = 0
+EMPTY_BYTE = [OFF, OFF, OFF, OFF, OFF, OFF, OFF, OFF]
